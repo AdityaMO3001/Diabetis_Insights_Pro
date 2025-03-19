@@ -1,5 +1,7 @@
 # DiabetesInsight Pro: Advanced Multidimensional Analysis & Predictive Visualization Platform
 
+## File Link: https://colab.research.google.com/drive/1qOswEYmFFBQwD75FMiQ_YzVnYWdygVsN#scrollTo=c04e-AH5Gu7Z
+
 ## Overview
 DiabetesInsight Pro represents a state-of-the-art analytical framework for diabetes research, integrating cutting-edge visualization techniques with advanced machine learning algorithms. This enterprise-grade solution transcends traditional analysis methods by leveraging multidimensional data representations and predictive modeling to extract clinically relevant insights from complex diabetes datasets.
 
